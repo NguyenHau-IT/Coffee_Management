@@ -204,21 +204,26 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmQuanlynhanvien.resx">
       <DependentUpon>frmQuanlynhanvien.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmQuanlyphieuxuat.resx">
       <DependentUpon>frmQuanlyphieuxuat.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSanPham.resx">
       <DependentUpon>frmSanPham.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThaydoitaikhoan.resx">
       <DependentUpon>frmThaydoitaikhoan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmthongkephieuxuat.resx">
       <DependentUpon>frmthongkephieuxuat.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThongkesanpham.resx">
       <DependentUpon>frmThongkesanpham.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTroGiup.resx">
       <DependentUpon>frmTroGiup.cs</DependentUpon>
