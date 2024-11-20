@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Coffee_Management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7DBF8FC-AC6C-42B2-BB8D-D8DCDEDD1EC9}|project2\\Coffee_Management.csproj|d:\\coffee_management\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBF8FC-AC6C-42B2-BB8D-D8DCDEDD1EC9}|project2\\Coffee_Management.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7DBF8FC-AC6C-42B2-BB8D-D8DCDEDD1EC9}|project2\\Coffee_Management.csproj|d:\\coffee_management\\project2\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7DBF8FC-AC6C-42B2-BB8D-D8DCDEDD1EC9}|project2\\Coffee_Management.csproj|solutionrelative:project2\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coffee_Management\\project2\\Program.cs",
+              "RelativeDocumentMoniker": "project2\\Program.cs",
+              "ToolTip": "D:\\Coffee_Management\\project2\\Program.cs",
+              "RelativeToolTip": "project2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:26:42.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmquanly.cs [Design]",
               "DocumentMoniker": "D:\\Coffee_Management\\project2\\frmquanly.cs",
               "RelativeDocumentMoniker": "project2\\frmquanly.cs",
